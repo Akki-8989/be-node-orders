@@ -11,4 +11,5 @@ jobs:
       infra_repo: Infrastructure
       database_type: sqlserver
       database_name: ecom_db
+      tier: free
     secrets: inherit
